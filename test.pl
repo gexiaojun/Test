@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "ffffffff\n";
+print "10\n";
