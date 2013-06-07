@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "88888888888\n";
+print "000000000\n";
