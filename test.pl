@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "WWWWW\n";
+print "QQ\n";
