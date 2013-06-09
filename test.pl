@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "SS\n";
+print "12345\n";
