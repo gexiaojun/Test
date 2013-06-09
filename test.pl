@@ -3,5 +3,5 @@
 use strict;
 use warnings;
 
-print "Test123\n";
+print "Test\n";
 print "123\n";
