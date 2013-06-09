@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "FFF\n";
+print "777\n";
