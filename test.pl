@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "ASDFGHJKL\n";
+print "WWWWW\n";
