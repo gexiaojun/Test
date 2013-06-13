@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "22\n";
+print "EE\n";
