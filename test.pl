@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "XX\n";
+print "！！\n";
