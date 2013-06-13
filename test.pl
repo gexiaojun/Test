@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "ZZZZ\n";
+print "111122222\n";
