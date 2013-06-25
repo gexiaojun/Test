@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "11:36\n";
+print "12:05\n";
